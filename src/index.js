@@ -1,1 +1,4 @@
-alert("It's working!!");
+import "./styles.css";
+import { renderHomePage } from "./homepage";
+
+renderHomePage();
