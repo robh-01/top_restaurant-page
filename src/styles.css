@@ -137,5 +137,11 @@ nav > button {
   }
 }
 
+.look-better {
+  background-color: white;
+  color: rgb(23, 204, 150);
+  text-shadow: 0 1px black; 
+}
+
 
 

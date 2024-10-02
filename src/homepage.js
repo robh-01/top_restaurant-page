@@ -1,6 +1,7 @@
 const contentDiv = document.body.querySelector('#content');
 
 function renderHomePage() {
+    contentDiv.textContent = "";
     const welcomeContentDiv = document.createElement('div');
     welcomeContentDiv.classList.add('welcome-content');
 
